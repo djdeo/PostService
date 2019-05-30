@@ -1,0 +1,2 @@
+# PostService
+class PostService
